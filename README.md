@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dedi-dev
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Futter, .Net
+- 🌱 I’m currently coding with React, React Native and Flutter
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me id.dedi81@gmail.com, https://www.linkedin.com/in/dedi-20712119b/, +6285711170818
 
